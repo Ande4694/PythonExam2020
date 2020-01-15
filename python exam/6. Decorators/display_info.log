@@ -1,0 +1,6 @@
+INFO:root:Kørt med args: ('Niklas', 36), og kwargs: {}
+INFO:root:Kørt med args: ('aNDERS', 36), og kwargs: {}
+INFO:root:Kørt med args: ('aNDERS', 36), og kwargs: {}
+INFO:root:Kørt med args: ('Noget nyt', 'helt nyt'), og kwargs: {}
+INFO:root:Kørt med args: ('Noget nyt', 'helt nyt'), og kwargs: {'K': 'hans'}
+INFO:root:Kørt med args: ('Noget nyt', 'helt nyt'), og kwargs: {}

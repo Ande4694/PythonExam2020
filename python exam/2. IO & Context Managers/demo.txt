@@ -1,0 +1,2 @@
+Der skrives til filen
+Der appendes til filen
